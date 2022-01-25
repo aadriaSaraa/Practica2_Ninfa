@@ -1,0 +1,44 @@
+[{
+    "id": 1,
+    "titulo": "Bershka",
+    "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935569341573898300/bershka.png",
+    "alt": "iamgen donde aparece un bote de colonia de la marca pull & bear",
+    "url": "https://www.bershka.com/"
+},
+{
+    "id": 2,
+    "titulo": "Zara",
+    "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935569343260028958/zara.png",
+    "alt": "aparece un bote de colonia de la marca Zara",
+    "url": "https://www.zara.com/es/"
+},
+{
+    "id": 3,
+    "titulo": "Mango",
+    "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935569342697971763/mango.png",
+    "alt": "Aparece una imagen con un bote de colonia de la marca Mango",
+    "url": "https://shop.mango.com/es/"
+},
+{
+    "id": 4,
+    "titulo": "Stradivarius",
+    "srcimg": "https://media.discordapp.net/attachments/866667654475415552/935569342937063444/stradi.png",
+    "alt": "Descripción de la imágen",
+    "url": "https://www.stradivarius.com/es/"
+},
+{
+    "id": 5,
+    "titulo": "Chanel",
+    "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935572962046775316/chanel.png",
+    "alt": "imagen donde aparece un bote de colonia de la marca Chanel",
+    "url": "https://www.chanel.com/es/"
+},
+{
+    "id": 6,
+    "titulo": "Dior",
+    "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935569342316298351/dior.png",
+    "alt": "imagen donde aparece un bote de colonia de Dior",
+    "url": "https://www.dior.com/"
+}
+
+]
